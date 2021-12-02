@@ -1,0 +1,27 @@
+h1{
+    font-size: 100px;
+    color:rgb(5, 34, 71);
+    background-color:deepskyblue ;
+    text-align: center;
+} 
+
+body{
+    background-color: rgb(177, 243, 255);
+}
+
+.turno{
+    color: darkturquoise;
+    font-size: 40px;
+    background-color: darkslategrey;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px black;
+}
+
+.lista{
+    font-size: 30px;
+    color: lightyellow;
+    background-color: rgb(108, 75, 251);
+    border: 2px black;
+    border-radius: 5px;
+}
